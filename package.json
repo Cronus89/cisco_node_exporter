@@ -1,0 +1,19 @@
+{
+  "name": "cronus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modem_scrape.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarah",
+  "license": "ISC"
+}
